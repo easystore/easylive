@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+#city{
+margin: 0px auto;
+width: 200px;
+height:100px;
+}
+#city ul li{
+list-style-type: none;
+float: left;
+width: 49px;
+height: 20px;
+
+}
